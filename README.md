@@ -1,2 +1,2 @@
 # rust-bert-ml
-Using NLP Machine Learning Rust-Bert Lib
+Just a learning project for playing around with rust-bert 
